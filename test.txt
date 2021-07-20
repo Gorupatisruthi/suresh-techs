@@ -1,1 +1,1 @@
-This is about test cases and there uses.
+Git fetch,pull,push command are well known.This is about test cases and there uses.
